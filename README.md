@@ -9,5 +9,5 @@ An application that allows you to display text in a different layout.
 - If you are satisfied with the converted text that appears at the top of the window, click the "Copy new text" button to copy the new text to the clipboard.
 
 ## To-do
-- [] The ability to run the program along with the OS.
-- [] Support for other layouts and languages.
+- [ ] The ability to run the program along with the OS.
+- [ ] Support for other layouts and languages.
